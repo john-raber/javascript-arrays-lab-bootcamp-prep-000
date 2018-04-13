@@ -1,5 +1,5 @@
 const app = "I don't do much."
 
-var 
+var kittens = ["Milo", ]
 
 function 
